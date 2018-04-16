@@ -21,6 +21,7 @@ public class Player : MonoBehaviour {
     public AudioSource jump;
     public AudioSource suck;
     public AudioSource sick;
+    public AudioSource dick;
     //ab
 
 
