@@ -11,6 +11,7 @@ public class BackAndForth : MonoBehaviour
     private float starty;
     public int direction;
     private Player player;
+    public int victor;
     
     // Use this for initialization
     void Start()
