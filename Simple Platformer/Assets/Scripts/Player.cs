@@ -19,7 +19,9 @@ public class Player : MonoBehaviour {
     public float startx, starty;
     public GameObject Blood;
     public AudioSource jump;
-    
+    public AudioSource suck;
+    //ab
+
 
     void Start () {
         rb = GetComponent<Rigidbody2D>();
