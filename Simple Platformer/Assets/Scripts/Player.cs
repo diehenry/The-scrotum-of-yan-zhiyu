@@ -20,6 +20,7 @@ public class Player : MonoBehaviour {
     public GameObject Blood;
     public AudioSource jump;
     public AudioSource suck;
+    public AudioSource sick;
     //ab
 
 
